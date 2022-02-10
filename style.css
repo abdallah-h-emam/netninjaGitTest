@@ -9,3 +9,10 @@ html {
   height: 100vh;
   background-color: cyan;
 }
+
+
+/* about Page  */
+#about {
+    height: 100vh;
+    background-color: brown;
+}
