@@ -5,14 +5,20 @@ html {
   padding: 0;
 }
 
+/* home Page */
 #home {
   height: 100vh;
   background-color: cyan;
 }
 
-
-/* about Page  */
+/* about Page */
 #about {
-    height: 100vh;
-    background-color: brown;
+  height: 100vh;
+  background-color: brown;
+}
+
+/* feature Page */
+#feature {
+  height: 100vh;
+  background-color:burlywood;
 }
