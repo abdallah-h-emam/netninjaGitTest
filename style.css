@@ -1,0 +1,24 @@
+*,
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+/* home Page */
+#home {
+  height: 100vh;
+  background-color: cyan;
+}
+
+/* about Page */
+#about {
+  height: 100vh;
+  background-color: brown;
+}
+
+/* feature Page */
+#feature {
+  height: 100vh;
+  background-color: burlywood;
+}
