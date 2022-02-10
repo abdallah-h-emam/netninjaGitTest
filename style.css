@@ -21,4 +21,11 @@ html {
 #feature {
   height: 100vh;
   background-color: burlywood;
+  background-color:burlywood;
+}
+
+/* feature Page */
+#footer {
+  height: 100vh;
+  background-color:blueviolet;
 }
